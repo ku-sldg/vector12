@@ -1,10 +1,10 @@
 ---
 layout: frontpage
-title: Niche Modeling
+title: Virtual Vector Lab
 ---
 
-Niche Modeling is about using model checking to verify properties of
-species niche models.
+Virtual Vector Lab is about automatically identifying disease carrying
+insects to support treatment and refinement of niche models
 
 ## Recent Activities
 
@@ -12,19 +12,20 @@ species niche models.
 
 ## Team
 
-Verified TPM is run by The Information and Telecommunication
-Technology Center at The University of Kansas.
+Virtual Vector Laboratory is a joint effort between The Information
+and Telecommunication Technology Center and The Biodiversity Institute
+at The University of Kansas. 
 
 ### Faculty
 
-* Perry Alexander (Advisor)
+* Perry Alexander (Co-PI ITTC)
+* Town Peterson (Co-PI BI)
 
-### Students
+### Staff
 
-* Kayla Sale
+* Ed Komp
 
 ## Sponsors
 
-Niche Modeling using Model Checking is sponsored by KU Initiative for
-Maximizing Student Diversity (IMSD)
+Virtual Vector Lab is supported by the KU Research Investment Council.
 
