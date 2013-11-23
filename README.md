@@ -1,25 +1,31 @@
-Verified TPM is specifying the TPM 1.2 formally in PVS.
+---
+layout: frontpage
+title: Virtual Vector Lab
+---
 
-## Participants
+Virtual Vector Lab is about automatically identifying disease carrying
+insects to support treatment and refinement of niche models
+
+## Recent Activities
+
+* Coming Soon
+
+## Team
+
+Virtual Vector Laboratory is a joint effort between The Information
+and Telecommunication Technology Center and The Biodiversity Institute
+at The University of Kansas. 
 
 ### Faculty
 
-* Perry Alexander (@palexand)
+* Perry Alexander (Co-PI ITTC)
+* Town Peterson (Co-PI BI)
 
 ### Staff
 
-### Students
-
-* Brigid Halling
-
-## Publications
-
-Coming Soon
-
-### Pages
-
-Coming Soon
+* Ed Komp
 
 ## Sponsors
 
-Verified TPM was sponsored by The Battelle Memorial Trust
+Virtual Vector Lab is supported by the KU Research Investment Council.
+
