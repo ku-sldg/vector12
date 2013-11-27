@@ -1,9 +1,9 @@
 ---
 layout: frontpage
-title: Virtual Vector Blog
+title: Virtual Vector Laboratory
 ---
 
-# {{ page.title }}
+# Blog
 
 {% for post in site.categories.blog %}
 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>

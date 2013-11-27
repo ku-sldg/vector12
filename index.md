@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Virtual Vector Lab
+title: Virtual Vector Laboratory
 ---
 
 Virtual Vector Lab is about automatically identifying disease carrying
