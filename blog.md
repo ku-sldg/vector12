@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Virtual Vector Laboratory
+title: Virtual Vector Lab
 ---
 
 # Blog
