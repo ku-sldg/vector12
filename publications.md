@@ -1,9 +1,8 @@
 ---
 layout: frontpage
-title: Publications
+title: {{ site.title }}
 ---
 
 # Publications
 
-Publications coming soon...
-
+{% include publications.html %}

@@ -1,9 +1,8 @@
 ---
 layout: frontpage
-title: Documenation
+title: {{ site.title }}
 ---
 
 # Software
 
-Software downloads coming soon...
-
+{% include releases.html %}
