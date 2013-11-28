@@ -1,31 +1,20 @@
 ---
 layout: frontpage
-title: Virtual Vector Lab
+title: {{ site.title }}
 ---
 
-Virtual Vector Lab is about automatically identifying disease carrying
-insects to support treatment and refinement of niche models
+{{ site.description }}
 
 ## Recent Activities
+-----
 
-* Coming Soon
+{% include blog-date-10.html %}
 
 ## Team
+-----
 
-Virtual Vector Laboratory is a joint effort between The Information
-and Telecommunication Technology Center and The Biodiversity Institute
-at The University of Kansas. 
+{% include people.html %}
 
-### Faculty
+-----
 
-* Perry Alexander (Co-PI ITTC)
-* Town Peterson (Co-PI BI)
-
-### Staff
-
-* Ed Komp
-
-## Sponsors
-
-Virtual Vector Lab is supported by the KU Research Investment Council.
-
+{{ site.title }} is supported by {{ site.sponsors }}
