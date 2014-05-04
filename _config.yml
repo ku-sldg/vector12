@@ -1,4 +1,5 @@
 baseurl: http://ku-sldg.github.io/vector12/
+markdown: kramdown
 title: Virtual Vector Lab
 subtitle: Automaticaly identifying dieases carriers
 github: https://github.com/ku-sldg/vector12
